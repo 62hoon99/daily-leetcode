@@ -1,25 +1,12 @@
 class Solution:
     def reconstructQueue(self, people: List[List[int]]) -> List[List[int]]:
-        q = []
+        # 1. 키 내림차순, k 오름차순 정렬
+        people.sort(key=lambda x: (-x[0], x[1]))
+
         answer = []
 
-        for p in people:
-            heapq.heappush(q, (p[1], p[0]))
+        # 2. k 위치에 바로 삽입
+        for height, k in people:
+            answer.insert(k, [height, k])
 
-        while len(q) > 0:
-            count, height = heapq.heappop(q)
-            current = 0
-            
-            for i in range(len(answer) + 1):
-                if i == len(answer):
-                    answer.append([height, count])
-                    break
-
-                if answer[i][0] >= height:
-                    current += 1
-                
-                if current > count:
-                    answer.insert(i, [height, count])
-                    break
-        
         return answer
