@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/62hoon99/daily-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/62hoon99/daily-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/62hoon99/daily-leetcode/tree/master/0239-sliding-window-maximum) |
+| [0406-queue-reconstruction-by-height](https://github.com/62hoon99/daily-leetcode/tree/master/0406-queue-reconstruction-by-height) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/62hoon99/daily-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0406-queue-reconstruction-by-height](https://github.com/62hoon99/daily-leetcode/tree/master/0406-queue-reconstruction-by-height) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -87,4 +89,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/62hoon99/daily-leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/62hoon99/daily-leetcode/tree/master/0406-queue-reconstruction-by-height) |
+## Segment Tree
+|  |
+| ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/62hoon99/daily-leetcode/tree/master/0406-queue-reconstruction-by-height) |
 <!---LeetCode Topics End-->
