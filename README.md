@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/62hoon99/daily-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/62hoon99/daily-leetcode/tree/master/0239-sliding-window-maximum) |
 | [0406-queue-reconstruction-by-height](https://github.com/62hoon99/daily-leetcode/tree/master/0406-queue-reconstruction-by-height) |
+| [0621-task-scheduler](https://github.com/62hoon99/daily-leetcode/tree/master/0621-task-scheduler) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -40,11 +41,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/62hoon99/daily-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0406-queue-reconstruction-by-height](https://github.com/62hoon99/daily-leetcode/tree/master/0406-queue-reconstruction-by-height) |
+| [0621-task-scheduler](https://github.com/62hoon99/daily-leetcode/tree/master/0621-task-scheduler) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/62hoon99/daily-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/62hoon99/daily-leetcode/tree/master/0239-sliding-window-maximum) |
+| [0621-task-scheduler](https://github.com/62hoon99/daily-leetcode/tree/master/0621-task-scheduler) |
 ## Quickselect
 |  |
 | ------- |
@@ -76,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/62hoon99/daily-leetcode/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/62hoon99/daily-leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0621-task-scheduler](https://github.com/62hoon99/daily-leetcode/tree/master/0621-task-scheduler) |
 ## String
 |  |
 | ------- |
@@ -89,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/62hoon99/daily-leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0621-task-scheduler](https://github.com/62hoon99/daily-leetcode/tree/master/0621-task-scheduler) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -97,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/62hoon99/daily-leetcode/tree/master/0406-queue-reconstruction-by-height) |
+## Counting
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/62hoon99/daily-leetcode/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
