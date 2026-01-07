@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/62hoon99/daily-leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/62hoon99/daily-leetcode/tree/master/0134-gas-station) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/62hoon99/daily-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/62hoon99/daily-leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/62hoon99/daily-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/62hoon99/daily-leetcode/tree/master/0239-sliding-window-maximum) |
 | [0406-queue-reconstruction-by-height](https://github.com/62hoon99/daily-leetcode/tree/master/0406-queue-reconstruction-by-height) |
@@ -37,10 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/62hoon99/daily-leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/62hoon99/daily-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/62hoon99/daily-leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/62hoon99/daily-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0406-queue-reconstruction-by-height](https://github.com/62hoon99/daily-leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [0455-assign-cookies](https://github.com/62hoon99/daily-leetcode/tree/master/0455-assign-cookies) |
@@ -82,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/62hoon99/daily-leetcode/tree/master/0076-minimum-window-substring) |
+| [0169-majority-element](https://github.com/62hoon99/daily-leetcode/tree/master/0169-majority-element) |
 | [0424-longest-repeating-character-replacement](https://github.com/62hoon99/daily-leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0621-task-scheduler](https://github.com/62hoon99/daily-leetcode/tree/master/0621-task-scheduler) |
 ## String
@@ -111,5 +115,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/62hoon99/daily-leetcode/tree/master/0169-majority-element) |
 | [0621-task-scheduler](https://github.com/62hoon99/daily-leetcode/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
