@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/62hoon99/daily-leetcode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/62hoon99/daily-leetcode/tree/master/0053-maximum-subarray) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/62hoon99/daily-leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/62hoon99/daily-leetcode/tree/master/0134-gas-station) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/62hoon99/daily-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/62hoon99/daily-leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/62hoon99/daily-leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/62hoon99/daily-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Sorting
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/62hoon99/daily-leetcode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/62hoon99/daily-leetcode/tree/master/0053-maximum-subarray) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/62hoon99/daily-leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/62hoon99/daily-leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0509-fibonacci-number](https://github.com/62hoon99/daily-leetcode/tree/master/0509-fibonacci-number) |
